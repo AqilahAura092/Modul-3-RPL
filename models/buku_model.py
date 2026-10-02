@@ -26,4 +26,3 @@ class BukuModel:
             cursor.close()
             return True
         return False
-    
